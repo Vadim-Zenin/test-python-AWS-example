@@ -36,4 +36,5 @@ Process finished with exit code 0
     "aws_secret_key": "CHANGE_TO_YOURS_AWS_SECRET_KEY",
     "region": "eu-west-1",
     "time_delta_hours": 168
-}```
+}
+```
