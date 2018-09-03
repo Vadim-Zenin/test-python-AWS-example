@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+#
+# Tested on Ubuntu 16.04
+
+sudo apt-get update -qq; sudo apt install virtualenv
+
+# Create virtualenv using Python3
+pushd <CHNAGE_TO_YOUR_PATH>/test-python-AWS-example/
+virtualenv -p python3 .venv
+
+source .venv/bin/activate
+pip install -r requirements.txt

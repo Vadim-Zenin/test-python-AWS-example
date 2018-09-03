@@ -1,0 +1,6 @@
+{
+    "aws_access_key": "CHANGE_TO_YOURS_AWS_ACCESS_KEY",
+    "aws_secret_key": "CHANGE_TO_YOURS_AWS_SECRET_KEY",
+    "region": "CHANGE_TO_YOURS_AWS_REGION",
+    "time_delta_hours": 168
+}
